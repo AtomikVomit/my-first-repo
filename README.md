@@ -8,3 +8,6 @@ A repository for learning GitHub for my CSC
 - I'm the one dressed like Dante in this photo
 ![Image](https://github.com/AtomikVomit/my-first-repo/blob/main/IMG_20240803_134707600.jpg)
 ![Alt text](https://github.com/AtomikVomit/my-first-repo/blob/profile-picture/Illustration12.png)
+
+Cody's change: 
+![image](https://github.com/user-attachments/assets/4660e29b-7bfc-4965-9733-08ca2ccac82f)
